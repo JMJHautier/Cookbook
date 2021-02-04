@@ -70,3 +70,35 @@ main
     color:grey;
 }
 
+.btn.btn-primary.btn-lg.btn-block, .alert {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.collapse.navbar-collapse {
+    justify-content: flex-end;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
