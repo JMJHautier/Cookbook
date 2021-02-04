@@ -70,15 +70,6 @@ main
     color:grey;
 }
 
-/* footer 
-{
-    position:absolute;
-    bottom:0;
-    left:50%;
-    right:50%;
-    transform: translate(-50%, -50%);
-}
-*/
 
 footer
 {
@@ -90,3 +81,13 @@ footer
     line-height: 30px; /* Vertically center the text there */
 
 }
+
+.btn.btn-primary.btn-lg.btn-block, .alert {
+    margin-top: 3em;
+    margin-bottom: 3em;
+}
+
+.collapse.navbar-collapse {
+    justify-content: flex-end;
+}
+
