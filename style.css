@@ -108,6 +108,12 @@ body
 
 }
 
+.navbar {
+    background-color: #DFCB1F;
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+}
+
 main 
 {
     background-color:#caf0f8;
@@ -138,5 +144,11 @@ main
 .nav-item
 {
     color:white;
+    text-transform: uppercase;
+    font-size: 1.0em;
+    font-weight: bold;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
