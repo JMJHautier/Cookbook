@@ -11,6 +11,11 @@
     object-position:center;
 }
 
+#carousel,
+.Presentation
+{
+    padding-top:50px;
+}
 
 .hovered-image:hover {
     opacity:0.2;
@@ -67,7 +72,8 @@ main
 
 .titleSite
 {
-    color:grey;
+    color: #5AA374;
+
 }
 
 
@@ -91,3 +97,45 @@ footer
     justify-content: flex-end;
 }
 
+body 
+{
+    background-color:#A5D6FF;
+}
+
+.container-fluid
+{
+    background-color:#DFCB1F;
+
+}
+
+main 
+{
+    background-color:#caf0f8;
+    box-shadow:inset 0 0 100px #A5D6FF;
+    border-radius:25px;
+    
+}
+
+.btn-primary
+{
+    background-color:#5AA374;
+}
+
+.buybook 
+{
+    padding-top:50px;
+}
+
+.dropdown-menu.show
+{
+    background-color:#5AA374;
+}
+
+.dropdown-item
+{
+    color:white;
+}
+.nav-item
+{
+    color:white;
+}
