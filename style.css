@@ -77,16 +77,7 @@ main
 }
 
 
-footer
-{
-    position: absolute;
-    bottom: 0;
-    width: 100%;
-    /* Set the fixed height of the footer here */
-    height: 60px;
-    line-height: 30px; /* Vertically center the text there */
 
-}
 
 .btn.btn-primary.btn-lg.btn-block, .alert {
     margin-top: 3em;
@@ -151,4 +142,9 @@ main
 
 .navbar-light .navbar-nav .nav-link {
     color: black;
+}
+
+footer {
+    position:relative;
+    margin-top:10px;
 }
